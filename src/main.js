@@ -10,7 +10,7 @@ import {
 import iziToast from 'izitoast';
 import 'izitoast/dist/css/iziToast.min.css';
 
-const form = document.querySelector('#search-form');
+const form = document.querySelector('.form');
 
 let currentQuery = '';
 let currentPage = 1;
